@@ -1,0 +1,24 @@
+{
+  "name": "sitecoredev",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.12.3",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.2.4",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-debug": "^2.1.2",
+    "gulp-foreach": "^0.1.0",
+    "gulp-msbuild": "^0.3.2",
+    "gulp-newer": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-sass": "^1.3.3",
+    "gulp-watch": "^4.3.5",
+    "msbuild": "^1.1.2",
+    "run-sequence": "^1.1.5"
+  },
+  "devDependencies": {},
+  "author": ""
+}
