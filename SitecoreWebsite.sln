@@ -32,6 +32,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreDev.Feature.Media",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreDev.Website", "Project\SitecoreDev\SitecoreDev.Website\SitecoreDev.Website.csproj", "{76F78A8A-1A30-4791-9B09-48F25260D8D1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Articles", "Articles", "{436D3745-0B0F-4AC0-889C-96778063706F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreDev.Feature.Articles", "Feature\Articles\SitecoreDev.Feature.Articles\SitecoreDev.Feature.Articles.csproj", "{2937A4C6-3DE7-4578-B746-47F88665D61D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +58,10 @@ Global
 		{76F78A8A-1A30-4791-9B09-48F25260D8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76F78A8A-1A30-4791-9B09-48F25260D8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76F78A8A-1A30-4791-9B09-48F25260D8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2937A4C6-3DE7-4578-B746-47F88665D61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2937A4C6-3DE7-4578-B746-47F88665D61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2937A4C6-3DE7-4578-B746-47F88665D61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2937A4C6-3DE7-4578-B746-47F88665D61D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +75,8 @@ Global
 		{203C46C9-2FB5-406D-9ADD-A1867BB35420} = {F0FB3536-F8E3-4F0A-B3D3-94617D6D33CB}
 		{0D805305-B6A9-4D8E-B5FA-5FDED72D573A} = {203C46C9-2FB5-406D-9ADD-A1867BB35420}
 		{76F78A8A-1A30-4791-9B09-48F25260D8D1} = {1FB5A3A4-AE06-4B45-8F67-70A22D1D78B8}
+		{436D3745-0B0F-4AC0-889C-96778063706F} = {F0FB3536-F8E3-4F0A-B3D3-94617D6D33CB}
+		{2937A4C6-3DE7-4578-B746-47F88665D61D} = {436D3745-0B0F-4AC0-889C-96778063706F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {63E30E71-D287-4F0F-AB9F-76CE40CE2936}
