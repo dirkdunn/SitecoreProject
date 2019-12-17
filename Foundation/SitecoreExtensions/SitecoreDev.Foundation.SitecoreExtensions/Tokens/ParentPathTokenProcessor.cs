@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using Sitecore.Pipelines.ExpandInitialFieldValue;
 
-namespace SitecoreDev.Web.Custom.Tokens
+namespace SitecoreDev.Foundation.SitecoreExtensions.Tokens
 {
     public class ParentPathTokenProcessor : ExpandInitialFieldValueProcessor
     {
@@ -15,7 +12,8 @@ namespace SitecoreDev.Web.Custom.Tokens
             {
                 if (args.TargetItem != null)
                 {
-                    args.Result = args.Result.Replace("$parentPath", args.TargetItem.Paths.ParentPath);
+                    args.Result = args.Result.Replace(
+                    "$parentPath", args.TargetItem.Paths.ParentPath);
                 }
             }
         }

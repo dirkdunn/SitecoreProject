@@ -96,6 +96,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\ArticlesController.cs" />
     <Compile Include="Models\ArticleModel.cs" />
     <Compile Include="Models\BlogCommentModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -103,16 +104,18 @@
     <Compile Include="Repositories\IArticlesRepository.cs" />
     <Compile Include="Repositories\ICommentRepository.cs" />
     <Compile Include="Repositories\SitecoreArticlesRepository.cs" />
+    <Compile Include="Services\BlogCommentService.cs" />
+    <Compile Include="Services\ICommentService.cs" />
     <Compile Include="Services\IContentService.cs" />
     <Compile Include="Services\SitecoreContentService.cs" />
+    <Compile Include="ViewModels\BlogPostViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
+    <Content Include="Views\BlogPost.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
