@@ -119,3 +119,8 @@ C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Webs
 C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\Package\PackageTmp\bin\roslyn\vbc.exe
 C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\Package\PackageTmp\bin\roslyn\vbc.rsp
 C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\Package\PackageTmp\bin\roslyn\VBCSCompiler.exe
+C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\SitecoreDev.Website.csprojAssemblyReference.cache
+C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\Package\PackageTmp\bin\roslyn\csc.exe.config
+C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\Package\PackageTmp\bin\roslyn\csi.exe.config
+C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\Package\PackageTmp\bin\roslyn\vbc.exe.config
+C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\Package\PackageTmp\bin\roslyn\VBCSCompiler.exe.config

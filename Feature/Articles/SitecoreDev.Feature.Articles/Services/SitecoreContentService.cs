@@ -18,19 +18,7 @@ namespace SitecoreDev.Feature.Articles.Services
 
         public IArticle GetArticleContent(string contentGuid)
         {
-            ArticleModel article = null;
-
-            var item = _repository.GetArticleContent(contentGuid);
-
-            if(item != null)
-            {
-                article = new ArticleModel();
-                article.Id = item.ID.ToString();
-                article.Title = item.Fields["Title"]?.Value;
-                article.Body = item.Fields["Body"]?.Value;
-            }
-
-            return article;
+            return _repository.GetArticleContent(contentGuid);
         }
     }
 }

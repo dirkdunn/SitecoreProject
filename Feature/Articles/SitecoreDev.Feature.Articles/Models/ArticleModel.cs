@@ -7,17 +7,17 @@ namespace SitecoreDev.Feature.Articles.Models
 {
     public interface IArticle
     {
-        string Id { get; }
+        Guid Id { get; }
         string Title { get; }
         string Body { get; }
     }
 
     public class ArticleModel : IArticle
     {
-        public string Id { get; set; }
+        public virtual Guid Id { get; set; }
 
-        public string Title { get; set; }
+        public virtual string Title { get; set; }
 
-        public string Body { get; set; }
+        public virtual string Body { get; set; }
     }
 }

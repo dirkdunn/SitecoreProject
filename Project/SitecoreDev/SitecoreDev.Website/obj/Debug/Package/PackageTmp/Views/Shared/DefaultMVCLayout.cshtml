@@ -1,5 +1,7 @@
 ﻿@using Sitecore
 @using Sitecore.Mvc.Analytics.Extensions
+@using Sitecore.Mvc
+
 @{
     Layout = null;
 }
@@ -13,7 +15,7 @@
     @Html.Sitecore().VisitorIdentification()
 </head>
 <body>
-    <h1>@Html.Sitecore().Field("title") test</h1>
+    <h1>@Html.Sitecore().Field("title")</h1>
     <h2>@Html.Sitecore().Field("Parent Path")</h2>
     <div>
         @Html.Sitecore().Placeholder("main")
