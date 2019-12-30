@@ -75,11 +75,11 @@ C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\bin\System.Web.Helpers.xml
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\bin\System.Web.Mvc.xml
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\obj\Debug\SitecoreDev.Feature.Articles.csprojAssemblyReference.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\obj\Debug\SitecoreDev.Feature.Articles.csproj.CoreCompileInputs.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\obj\Debug\SitecoreDev.Feature.Articles.csproj.CopyComplete
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\obj\Debug\SitecoreDev.Feature.Articles.dll
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\obj\Debug\SitecoreDev.Feature.Articles.pdb
+C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\obj\Debug\SitecoreDev.Feature.Articles.csprojAssemblyReference.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\obj\Debug\Package\PackageTmp\bin\SitecoreDev.Feature.Articles.dll
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\obj\Debug\Package\PackageTmp\bin\SitecoreDev.Feature.Articles.pdb
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Articles\SitecoreDev.Feature.Articles\obj\Debug\Package\PackageTmp\Views\web.config

@@ -77,11 +77,11 @@ C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Me
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\bin\System.Web.Helpers.xml
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\bin\System.Web.Mvc.xml
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\obj\Debug\SitecoreDev.Feature.Media.csprojAssemblyReference.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\obj\Debug\SitecoreDev.Feature.Media.csproj.CoreCompileInputs.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\obj\Debug\SitecoreDev.Feature.Media.csproj.CopyComplete
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\obj\Debug\SitecoreDev.Feature.Media.dll
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\obj\Debug\SitecoreDev.Feature.Media.pdb
+C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\obj\Debug\SitecoreDev.Feature.Media.csprojAssemblyReference.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\obj\Debug\Package\PackageTmp\bin\SitecoreDev.Feature.Media.dll
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\obj\Debug\Package\PackageTmp\bin\SitecoreDev.Feature.Media.pdb
 C:\Users\dirkd\source\repos\SitecoreWebsite\Feature\Media\SitecoreDev.Feature.Media\obj\Debug\Package\PackageTmp\Views\web.config

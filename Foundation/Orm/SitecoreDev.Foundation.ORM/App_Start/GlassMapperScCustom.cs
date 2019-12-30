@@ -9,7 +9,7 @@ using System.Linq;
 using System.Reflection;
 using IDependencyResolver = Glass.Mapper.Sc.IoC.IDependencyResolver;
 
-namespace SitecoreDev.Foundation.ORM.App_Start
+namespace SitecoreDev.Foundation.Orm.App_Start
 {
     public static  class GlassMapperScCustom
     {
@@ -53,41 +53,27 @@ namespace SitecoreDev.Foundation.ORM.App_Start
         {
             // Add maps here
             // mapsConfigFactory.Add(() => new SeoMap());
-
-            // We’re using reflection, executed in the Initialize pipeline, to scan the assemblies in our
-            // bin directory to find any class that implement IGlassMap and automatically add them to the configuration
-            // factory of Glass.Mapper.This will save us from having to register each configuration class individually,
-            // saving time and eliminating developer forgetfulness.
-
-            string binPath = System.IO.Path.Combine(
-                System.AppDomain.CurrentDomain.BaseDirectory, "bin");
-            var binFiles = Directory.GetFiles(binPath, "SitecoreDev*.dll", SearchOption.AllDirectories);
-
-            foreach (string dll in binFiles)
+            string binPath = System.IO.Path.Combine(System.AppDomain.CurrentDomain.BaseDirectory, "bin");
+            foreach (string dll in Directory.GetFiles(
+            binPath, "SitecoreDev*.dll", SearchOption.AllDirectories))
             {
                 try
                 {
                     Assembly loadedAssembly = Assembly.LoadFile(dll);
                     Type glassmapType = typeof(IGlassMap);
-                    var maps = loadedAssembly.GetTypes().Where(x => glassmapType.IsAssignableFrom(x));
-
+                    var maps = loadedAssembly.GetTypes().Where(x =>
+                    glassmapType.IsAssignableFrom(x));
                     if (maps != null)
                     {
                         foreach (var map in maps)
-                        {
                             mapsConfigFactory.Add(() =>
                             Activator.CreateInstance(map) as IGlassMap);
-                        }
                     }
                 }
                 catch (FileLoadException loadEx)
-                {
-                    // The Assembly has already been loaded.
-                }
+                { } // The Assembly has already been loaded.
                 catch (BadImageFormatException imgEx)
-                {
-                    // If exception is thrown, the file is not an assembly.
-                }
+                { } // If exception is thrown, the file is not an assembly.
             }
         }
     }

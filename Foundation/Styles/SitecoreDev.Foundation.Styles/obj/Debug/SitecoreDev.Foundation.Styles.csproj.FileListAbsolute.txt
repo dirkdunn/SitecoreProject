@@ -61,11 +61,11 @@ C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Founda
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\bin\System.Web.Helpers.xml
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\bin\System.Web.Mvc.xml
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\obj\Debug\SitecoreDev.Foundation.Styles.csprojAssemblyReference.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\obj\Debug\SitecoreDev.Foundation.Styles.csproj.CoreCompileInputs.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\obj\Debug\SitecoreDev.Foundation.Styles.csproj.CopyComplete
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\obj\Debug\SitecoreDev.Foundation.Styles.dll
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\obj\Debug\SitecoreDev.Foundation.Styles.pdb
+C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\obj\Debug\SitecoreDev.Foundation.Styles.csprojAssemblyReference.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\obj\Debug\Package\PackageTmp\bin\SitecoreDev.Foundation.Styles.dll
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\obj\Debug\Package\PackageTmp\bin\SitecoreDev.Foundation.Styles.pdb
 C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\Styles\SitecoreDev.Foundation.Styles\obj\Debug\Package\PackageTmp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
