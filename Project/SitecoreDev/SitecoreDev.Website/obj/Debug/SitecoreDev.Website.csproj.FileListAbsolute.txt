@@ -61,6 +61,7 @@ C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Webs
 C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\bin\System.Web.Helpers.xml
 C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\bin\System.Web.Mvc.xml
 C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\SitecoreDev.Website.csprojAssemblyReference.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\SitecoreDev.Website.csproj.CoreCompileInputs.cache
 C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\SitecoreDev.Website.csproj.CopyComplete
 C:\Users\dirkd\source\repos\SitecoreWebsite\Project\SitecoreDev\SitecoreDev.Website\obj\Debug\SitecoreDev.Website.dll

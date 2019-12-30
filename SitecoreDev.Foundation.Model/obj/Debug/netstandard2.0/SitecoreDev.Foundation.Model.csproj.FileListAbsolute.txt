@@ -1,0 +1,9 @@
+C:\Users\dirkd\source\repos\SitecoreWebsite\SitecoreDev.Foundation.Model\bin\Debug\netstandard2.0\SitecoreDev.Foundation.Model.deps.json
+C:\Users\dirkd\source\repos\SitecoreWebsite\SitecoreDev.Foundation.Model\bin\Debug\netstandard2.0\SitecoreDev.Foundation.Model.dll
+C:\Users\dirkd\source\repos\SitecoreWebsite\SitecoreDev.Foundation.Model\bin\Debug\netstandard2.0\SitecoreDev.Foundation.Model.pdb
+C:\Users\dirkd\source\repos\SitecoreWebsite\SitecoreDev.Foundation.Model\obj\Debug\netstandard2.0\SitecoreDev.Foundation.Model.csprojAssemblyReference.cache
+C:\Users\dirkd\source\repos\SitecoreWebsite\SitecoreDev.Foundation.Model\obj\Debug\netstandard2.0\SitecoreDev.Foundation.Model.csproj.CoreCompileInputs.cache
+C:\Users\dirkd\source\repos\SitecoreWebsite\SitecoreDev.Foundation.Model\obj\Debug\netstandard2.0\SitecoreDev.Foundation.Model.AssemblyInfoInputs.cache
+C:\Users\dirkd\source\repos\SitecoreWebsite\SitecoreDev.Foundation.Model\obj\Debug\netstandard2.0\SitecoreDev.Foundation.Model.AssemblyInfo.cs
+C:\Users\dirkd\source\repos\SitecoreWebsite\SitecoreDev.Foundation.Model\obj\Debug\netstandard2.0\SitecoreDev.Foundation.Model.dll
+C:\Users\dirkd\source\repos\SitecoreWebsite\SitecoreDev.Foundation.Model\obj\Debug\netstandard2.0\SitecoreDev.Foundation.Model.pdb
