@@ -1,0 +1,2 @@
+C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\IoC\SitecoreDev.Foundation.IoC\obj\Debug\SitecoreDev.Foundation.IoC.csprojAssemblyReference.cache
+C:\Users\dirkd\source\repos\SitecoreWebsite\Foundation\IoC\SitecoreDev.Foundation.IoC\obj\Debug\SitecoreDev.Foundation.IoC.csproj.CoreCompileInputs.cache

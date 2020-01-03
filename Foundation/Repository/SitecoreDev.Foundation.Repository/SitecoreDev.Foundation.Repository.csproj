@@ -60,6 +60,9 @@
       <HintPath>..\..\..\packages\Glass.Mapper.Sc.90.WebForms.5.5.28\lib\net462\Glass.Mapper.Sc.WebForms.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="SimpleInjector, Version=4.8.1.0, Culture=neutral, PublicKeyToken=984cb50dea722e99, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\SimpleInjector.4.8.1\lib\net45\SimpleInjector.dll</HintPath>
+    </Reference>
     <Reference Include="Sitecore.Kernel">
       <HintPath>..\..\..\..\..\..\..\..\inetpub\wwwroot\sitecoresc.dev.local\bin\Sitecore.Kernel.dll</HintPath>
     </Reference>
@@ -90,22 +93,21 @@
   <ItemGroup>
     <Compile Include="Content\IContentRepository.cs" />
     <Compile Include="Content\SitecoreContentRepository.cs" />
+    <Compile Include="Pipelines\InitializeContainer\RegisterDependencies.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="web.config" />
-    <None Include="web.Debug.config">
-      <DependentUpon>web.config</DependentUpon>
-    </None>
-    <None Include="web.Release.config">
-      <DependentUpon>web.config</DependentUpon>
-    </None>
+    <Content Include="Pipelines\App_Config\Include\Foundation\Foundation.Repository.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\SitecoreDev.Foundation.Model\SitecoreDev.Foundation.Model.csproj">
       <Project>{5AE2208C-A4EF-4D34-A31C-1A5A82186D9D}</Project>
       <Name>SitecoreDev.Foundation.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\IoC\SitecoreDev.Foundation.IoC\SitecoreDev.Foundation.IoC.csproj">
+      <Project>{87b26e0f-36f1-4554-bc54-15d30df40bf3}</Project>
+      <Name>SitecoreDev.Foundation.IoC</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
